@@ -5,8 +5,9 @@ I'm passionate about the technology field and I'm just starting out. Soon, I'll 
 **These are the statistics of my profile.📈**
 
 ![Vk's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssvkzin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssvkzin&layout=compact)
-<img src="https://i.imgur.com/gDIoNXa.png" alt="Logo do Markdown" width="230" height="230">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssvkzin&layout=compact) </br>
+<img src="https://i.imgur.com/WHFMtpQ.png" alt="Logo do Markdown" width="230" height="230">
+
 ---
 ### **🎯Skills**
 <div style="display: inline_block">
