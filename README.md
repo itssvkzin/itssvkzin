@@ -1,6 +1,6 @@
 ### Hello! I'm Vk.👋
 
-Sou apaixonado pela área de tecnologia e estou começando. Em breve, compartilharei aqui alguns dos projetos que tenho desenvolvido😀👍
+I'm passionate about the technology field and I'm just getting started. Soon, I'll be sharing some of the projects I've been working on here😀👍
 
 **These are my contacts👇**
 
