@@ -1,26 +1,40 @@
 ### Hello! I'm Vk.👋
 
-I'm passionate about the technology field and I'm just getting started. Soon, I'll be sharing some of the projects I've been working on here😀👍
-
-**These are my contacts👇**
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t5bvsMsT)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vkzinnn)
+I'm passionate about the technology field and I'm just starting out. Soon, I'll share some of the projects I've been working on here😀👍
 ---
 **These are the statistics of my profile.📈**
 
 ![Vk's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssvkzin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssvkzin&layout=compact)
+<img src="https://i.imgur.com/gDIoNXa.png" alt="Logo do Markdown" width="230" height="230">
 ---
-**These are the technologies I know how to use🌐**
-<div style="display: inline_block"><br/> 
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=white" >
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" >
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" >
-  <img align="center" alt="linux" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" >
-  <img align="center" alt="linux" src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" >
+### **🎯Skills**
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" >
+  <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" >
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" >
+</div>
+
+### **🗄️hosting**
+<div style="display: inline_block">
+  <img align="center" alt="cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" >
+</div>
+
+### **🛠️Tools and Software**
+<div style="display: inline_block">
+  <img align="center" alt="firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" >
+  <img align="center" alt="Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
+  <img align="center" alt="Stack" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" >
+</div>
+
+### **💻Workspace**
+<div style="display: inline_block">
+  <img align="center" alt="Nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" >
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux&logoColor=black" >
 </div>
 <br>
 
+---
 ![Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDd1ODI2MzE0MzlkcGc5eTRyemsxanl6dTcweGpqYjUzaHhjczlxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif)
+
