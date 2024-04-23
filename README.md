@@ -11,10 +11,7 @@ I'm passionate about the technology field and I'm just starting out. Soon, I'll 
 ---
 ### **🎯Skills**
 <div style="display: inline_block">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" >
   <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" >
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" >
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" >
 </div>
 
 ### **🗄️hosting**
